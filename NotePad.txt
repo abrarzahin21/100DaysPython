@@ -4,3 +4,13 @@ PYTHON PROJECT BY TOPIC's:
 2. IF/ELSE + OPERATORS + LOOP - MEAL MANAGEMENT SYSTEM SCRIPT
 3. IF/ELSE + LOOP + LIST/DICTIONARIES/TUPLES & MANY ... - TO DOO SCRIPT (SIMPLE TO COMPLEX) 
 4. IF/ELSE + LOOP + LIST/DICTIONARIES/TUPLES & MANY ... - LET's DRINK SOMTHING (SIMPLE TO COMPLEX)
+
+
+#GIT PUSH COMMAND
+
+1. git init
+2. git add .
+3. git commit -m "first commit" 
+4. git branch -M main
+5. git remote add origin https://github.com/abrarzahin21/100DaysPython.git
+6. git push -u origin main
