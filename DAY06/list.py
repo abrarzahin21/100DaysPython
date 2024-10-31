@@ -1,3 +1,6 @@
+#PROBLEM LINK : https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
+# SOLUTIONS
+
 N = int(input("Enter the value range value: "))
 userList = []
 

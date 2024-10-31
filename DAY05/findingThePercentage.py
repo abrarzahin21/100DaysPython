@@ -1,4 +1,5 @@
-
+#PROBLEM LINK: https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
+# SOLUTIONS:
 
 n = int(input("Enter the list range value: "))
 student_marks = {}
